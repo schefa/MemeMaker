@@ -26,6 +26,6 @@ $width = 640;
 $height = 480;
 $bgimageResult = "images/cover/".rand (1,14).".jpg";
 
-include('classes/Language.php');
-require_once('view.php');
+include('php/Language.php');
+require_once('php/View.php');
 ?>

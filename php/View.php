@@ -415,7 +415,7 @@ if(!defined('_EXEC')) {
 
 	</div>
   
-	<?php include_once('addition.php'); ?>
+	<?php include_once('php/addition.php'); ?>
 
 </div>
  

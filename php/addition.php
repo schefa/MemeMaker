@@ -207,7 +207,8 @@ jQuery(document).ready(function($) {
 		}
 		reader.readAsDataURL(ey.target.files[0]);
 	};
-    
+
+    // Tabs toggle
     $('.tabs-toggle li').click(function(){
     	$('.tabs-toggle li').removeClass('uk-active');
     	$(this).addClass('uk-active');
@@ -215,7 +216,8 @@ jQuery(document).ready(function($) {
     	$('.tabs-content > div').removeClass('active');
     	$('.tabs-content > div#'+target).addClass('active');
     }); 
-	 
+
+    // Loader image
 	$('body').addClass('loaded');
 });
  
