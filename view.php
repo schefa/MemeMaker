@@ -30,8 +30,8 @@ if(!defined('_EXEC')) {
 	<script src="js/angular-sanitize.min.js" type="text/javascript"></script>
 	
     <script src="js/app.js" type="text/javascript"></script>
-	<script src="js/fabric/fabric.js" type="text/javascript"></script> 
-	<script type="text/javascript" src="js/fabric/kitch.js"></script>
+	<script src="vendors/fabric/fabric.js" type="text/javascript"></script> 
+	<script src="vendors/fabric/kitch.js" type="text/javascript"></script>
 
     <link href="vendors/uikit/css/uikit.min.css" rel="stylesheet" type="text/css" /> 
 	<link href="vendors/fontawesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
