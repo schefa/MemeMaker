@@ -33,8 +33,8 @@ if(!defined('_EXEC')) {
 	<script src="js/fabric/fabric.js" type="text/javascript"></script> 
 	<script type="text/javascript" src="js/fabric/kitch.js"></script>
 
-    <link href="uikit/css/uikit.min.css" rel="stylesheet" type="text/css" /> 
-	<link href="fontawesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="vendors/uikit/css/uikit.min.css" rel="stylesheet" type="text/css" /> 
+	<link href="vendors/fontawesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="css/style.css" rel="stylesheet" type="text/css" />
 	
 	<link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Marcellus+SC|Oswald|Shadows+Into+Light+Two" rel="stylesheet"> 
