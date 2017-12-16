@@ -25,9 +25,9 @@ if(!defined('_EXEC')) {
 	@keyframes sk-bouncedelay {0%, 80%, 100% { -webkit-transform: scale(0);transform: scale(0);} 40% { -webkit-transform: scale(1.0);transform: scale(1.0);}}
 	</style>
 	
-    <script src="js/jquery.js"></script>
-	<script src="js/angular.min.js" type="text/javascript"></script>
-	<script src="js/angular-sanitize.min.js" type="text/javascript"></script>
+    <script src="vendors/jquery/jquery.js"></script>
+	<script src="vendors/angular/angular.min.js" type="text/javascript"></script>
+	<script src="vendors/angular/angular-sanitize.min.js" type="text/javascript"></script>
 	
     <script src="js/app.js" type="text/javascript"></script>
 	<script src="vendors/fabric/fabric.js" type="text/javascript"></script> 
